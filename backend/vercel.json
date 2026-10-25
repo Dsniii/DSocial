@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "dist/lambda.js"
+      "dest": "dist/lambda.ts"
     }
   ]
 }
